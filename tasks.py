@@ -5,3 +5,5 @@ def list_taskes():
 def remove_task():
     pass
     pass
+def set_due_date():
+    pass

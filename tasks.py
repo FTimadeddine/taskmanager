@@ -1,8 +1,2 @@
-def add_task():
+def set_due_date(): # Mdified in main
     pass
-def list_taskes():
-    pass
-def remove_task():
-    pass
-    pass
-def set_due_date(): # Modified in main
